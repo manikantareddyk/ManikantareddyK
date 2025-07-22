@@ -22,12 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer" title="Salesforce">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40" />
-  </a>
-  <a href="https://developer.salesforce.com/docs/component-library/overview/components" target="_blank" rel="noreferrer" title="LWC">
-    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="LWC" width="40" height="40" />
-  </a>
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer" title="Apex">
     <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="Apex" width="40" height="40" />
   </a>
