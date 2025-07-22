@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm KANAKANTI MANIKANTA REDDY</h1>
-<h3 align="center">A passionate Data Analyst Who Turns Data into Insights for Smarter Decisions</h3>
+<h3 align="center">Salesforce Developer | Turning Ideas into Scalable CRM Solutions</h3>
 
-- I Had Completed a Project Using Advance Excel = [Bank Loan Analysis](https://github.com/manikantareddyk/Bank-Loan-Analysis)
+- 💼 **Currently working as Salesforce Developer at LTIMindtree**, developing Lightning Web Components (LWC), Apex triggers, and Community Cloud solutions to meet client business requirements.
 
-- I Had Skilled in **PowerBI, SQL, Excel, Python, Alteryx**
+- 🔧 Skilled in **LWC, Apex, SOQL, SOSL, REST API integrations, Aura, Salesforce Flows, and Community Cloud**.
 
-- Completed a Project Using PowerBI, SQL, Excel = [Pizza Sales Data Analysis](https://github.com/manikantareddyk/PIZZA-SALES-ANALYSIS)
+- 🚀 Projects:
+  - **Organization Accounts and Contact Management** – LWC-based Salesforce app for managing Accounts and Contacts with dynamic UI, Lightning Message Service, and Lightning Data Service.
+  - **Community Portal for Clarios** – Delivered customized Community Cloud solutions to improve user engagement and meet business objectives.
 
 - 📫 Feel free to reach me **manikantareddyk0770@gmail.com**
 
-- 📄 Resume: [Click Here](https://drive.google.com/file/d/1lzTEVNa7nK5v5ESYauqlgm1TBbk9QoVG/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1lzTEVNa7nK5v5ESYauqlgm1TBbk9QoVG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,32 +22,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Git -->
+  <a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer" title="Salesforce">
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40" />
+  </a>
+  <a href="https://developer.salesforce.com/docs/component-library/overview/components" target="_blank" rel="noreferrer" title="LWC">
+    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="LWC" width="40" height="40" />
+  </a>
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer" title="Apex">
+    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="Apex" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.css3.com/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-  <!-- Microsoft SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="Microsoft SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
-  </a>
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Excel">
-    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40" />
-  </a>
-  
+</p>
