@@ -10,7 +10,7 @@
 
 - 📫 Feel free to reach me **manikantareddyk0770@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1lzTEVNa7nK5v5ESYauqlgm1TBbk9QoVG/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1nKf3DqXBr5W6ql0pUUq2FYbSp1llY4cN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
