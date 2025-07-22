@@ -7,7 +7,6 @@
 
 - 🚀 Projects:
   - **Organization Accounts and Contact Management** – LWC-based Salesforce app for managing Accounts and Contacts with dynamic UI, Lightning Message Service, and Lightning Data Service.
-  - **Community Portal for Clarios** – Delivered customized Community Cloud solutions to improve user engagement and meet business objectives.
 
 - 📫 Feel free to reach me **manikantareddyk0770@gmail.com**
 
